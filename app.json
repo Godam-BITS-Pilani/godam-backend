@@ -1,0 +1,16 @@
+{
+  "name": "Godam Backend",
+  "description": "This Django app serves as the backend for the Godam app and service .",
+  "logo": "",
+  "website": "https://godam.com",
+  "image": "heroku/python",
+  "repository": "",
+  "keywords": [
+    "python",
+    "django",
+    "godam",
+    "backend",
+    "rest_framework",
+    "agriculture"
+  ]
+}
